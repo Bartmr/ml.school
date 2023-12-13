@@ -4,6 +4,13 @@ This repository contains the source code of the [Machine Learning School](https:
 
 If you find any problems with the code or have any ideas on improving it, please open an issue and share your recommendations.
 
+## Setup
+
+- Create Python environment
+  ```bash
+  python3 -m venv .venv
+  ```
+
 ## Running the code
 
 Before running the project, follow the [Setup instructions](https://program.ml.school/setup.html). After that, you can test the code by running the following command:
