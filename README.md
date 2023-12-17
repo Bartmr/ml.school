@@ -6,14 +6,20 @@ If you find any problems with the code or have any ideas on improving it, please
 
 ## Setup
 
-- Create Python environment
-  ```bash
-  python3 -m venv .venv
-  ```
-- Install requirements
-  ```bash
-  pip install -r requirements.txt
-  ```
+### Locally
+
+- In your local machine
+  - Create Python environment
+    ```bash
+    python3 -m venv .venv
+    ```
+  - Install requirements
+    ```bash
+    pip install -r requirements.txt
+    ```
+  - [Setup instructions](https://program.ml.school/setup.html)
+  - [SageMaker setup instructions](https://program.ml.school/setup.html#running-the-code-in-sagemaker-studio)
+
 
 ## Running the code
 
