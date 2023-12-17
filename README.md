@@ -10,6 +10,10 @@ If you find any problems with the code or have any ideas on improving it, please
   ```bash
   python3 -m venv .venv
   ```
+- Install requirements
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 ## Running the code
 
